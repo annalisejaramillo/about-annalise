@@ -5,11 +5,14 @@ body {
 }
 
 
-ul { display: inline-block; text-align:left; }
+ul { display: inline-block; text-align:left;
+	background-color: orange;
+	color:blue;}
 
 .annoyingimage {
 	margin-top: 75px;
 	max-width:30%;
 	height:auto;
 	transform:rotate(90deg);
+	border-radius: 50%;
 }
