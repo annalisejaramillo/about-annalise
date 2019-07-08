@@ -1,0 +1,12 @@
+img {
+	Width: 30%;
+	height: 30%;
+	transform: rotate(90deg);
+	margin: auto;
+}
+
+.center {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
