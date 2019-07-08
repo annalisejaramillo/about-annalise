@@ -1,12 +1,15 @@
-img {
-	Width: 30%;
-	height: 30%;
-	transform: rotate(90deg);
-	margin: auto;
+body {
+	text-align:center;
+	background-color:purple;
+	color: yellow;
 }
 
-.center {
-	width: 100%;
-	margin: auto;
-	text-align: center;
+
+ul { display: inline-block; text-align:left; }
+
+.annoyingimage {
+	margin-top: 75px;
+	max-width:30%;
+	height:auto;
+	transform:rotate(90deg);
 }
